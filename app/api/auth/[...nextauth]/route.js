@@ -56,5 +56,5 @@ const handler = NextAuth({
     },
   },
 });
-
+// 1.48.23
 export { handler as GET, handler as POST };
